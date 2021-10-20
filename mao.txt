@@ -543,7 +543,7 @@
           "urls": [
             "http://43.128.9.168/jjtv.php?id=38",
             "http://50.7.61.147:30080/Entry/etnews",
-            "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+            "http://seb.sason.top/sc/dsxw_fhd.m3u8"
           ]
         },
         {
