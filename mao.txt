@@ -791,8 +791,7 @@
         {
           "name": "衛視洋片",
           "urls": [
-            "http://125.227.210.37:18789/VideoInput/play.ts",
-            "http://125.227.210.55:18789/VideoInput/play.ts"
+            "http://125.227.210.37:18789/VideoInput/play.ts"
           ]
         },
         {
