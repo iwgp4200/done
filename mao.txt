@@ -451,8 +451,9 @@
         {
           "name": "民視",
           "urls": [
+            "http://185.207.176.189:8080/channels/tw-300/playlist.m3u8",
             "http://50.7.61.147:30080/Entry/ftv",
-            "http://iptv5.phoves.com.cn/api/mitv.php?id=24"
+            "rtmp://59.124.75.136/sat/tv051",
           ]
         },
         {
@@ -480,31 +481,33 @@
         {
           "name": "三立新聞",
           "urls": [
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw",
             "http://125.227.210.37:15589/VideoInput/play.ts",
-            "http://125.227.210.55:15589/VideoInput/play.ts",
-            "http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free"
+            "http://125.227.210.55:15589/VideoInput/play.ts"
           ]
         },
         {
           "name": "中天新聞",
           "urls": [
             "http://43.128.9.168/jjtv.php?id=36",
-            "http://seb.sason.top/sc/ztxw_fhd.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free"
+            "http://seb.sason.top/sc/ztxw_fhd.m3u8"
           ]
         },
         {
           "name": "中視新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free"
+          "http://43.128.9.168/jjtv.php?id=33",
+          "https://git.io/Jgkxz",
+          "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8"
           ]
         },
         {
           "name": "台視新聞",
           "urls": [
             "http://seb.sason.top/sc/tsxw_fhd.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free"
+            "http://43.128.9.168/jjtv.php?id=34",
+            "http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv",
+            "https://git.io/JgkxY",
+            "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8"
           ]
         },
         {
