@@ -789,12 +789,6 @@
           ]
         },
         {
-          "name": "衛視洋片",
-          "urls": [
-            "http://125.227.210.37:18789/VideoInput/play.ts"
-          ]
-        },
-        {
           "name": "東森洋片",
           "urls": [
             "http://125.227.210.37:18685/VideoInput/play.ts",
