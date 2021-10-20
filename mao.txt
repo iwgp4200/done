@@ -452,6 +452,7 @@
           "name": "民視",
           "urls": [
             "http://185.207.176.189:8080/channels/tw-300/playlist.m3u8",
+            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07",
             "http://50.7.61.147:30080/Entry/ftv",
             "rtmp://59.124.75.136/sat/tv051"
           ]
