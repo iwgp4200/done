@@ -796,12 +796,6 @@
           ]
         },
         {
-          "name": "龍華日韓",
-          "urls": [
-            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11"
-          ]
-        },
-        {
           "name": "HBO",
           "urls": [
             "http://50.7.61.148:30080/Entry/hbo"
