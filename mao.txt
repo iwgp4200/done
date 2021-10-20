@@ -503,7 +503,6 @@
         {
           "name": "台視新聞",
           "urls": [
-            "http://seb.sason.top/sc/tsxw_fhd.m3u8",
             "http://43.128.9.168/jjtv.php?id=34",
             "http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv",
             "https://git.io/JgkxY",
@@ -513,7 +512,6 @@
         {
           "name": "華視新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free",
             "http://185.207.176.189:8080/channels/tw-503/playlist.m3u8"
           ]
         },
@@ -521,10 +519,8 @@
           "name": "民視新聞",
           "urls": [
             "http://210.61.56.23/hls/ftvtv/index.m3u8",
-            "http://50.7.61.148:30080/Entry/ftvnews",
             "http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3",
             "http://seb.sason.top/sc/msxw_fhd.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free",
             "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
           ]
         },
@@ -532,9 +528,7 @@
           "name": "年代新聞",
           "urls": [
             "http://125.227.210.37:11055/VideoInput/play.ts",
-            "http://125.227.210.55:11055/VideoInput/play.ts",
-            "http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
+            "http://125.227.210.55:11055/VideoInput/play.ts"
           ]
         },
         {
@@ -550,8 +544,6 @@
             "http://43.128.9.168/jjtv.php?id=38",
             "http://50.7.61.147:30080/Entry/etnews",
             "http://seb.sason.top/sc/dsxw_fhd.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free",
-            "http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv"
           ]
         },
         {
@@ -564,15 +556,12 @@
           "name": "非凡新聞",
           "urls": [
             "http://125.227.210.37:15078/VideoInput/play.ts",
-            "http://125.227.210.55:15078/VideoInput/play.ts",
-            "http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
+            "http://125.227.210.55:15078/VideoInput/play.ts"
           ]
         },
         {
           "name": "壹電視新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free",
             "http://50.7.61.147:30080/Entry/etv",
             "http://stream.nexttv.com.tw/n001/hd/live.m3u8"
           ]
@@ -580,18 +569,13 @@
         {
           "name": "寰宇新聞",
           "urls": [
-            "http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8",
-            "https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free"
+            "https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8"
           ]
         },
         {
           "name": "TVBS",
           "urls": [
-            "http://50.7.61.148:30080/Entry/tvbs",
-            "http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
+            "http://50.7.61.148:30080/Entry/tvbs"
           ]
         },
         {
@@ -599,7 +583,6 @@
           "urls": [
             "http://125.227.210.37:16329/VideoInput/play.ts",
             "http://50.7.61.148:30080/Entry/tvbsnews",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw",
             "rtmp://59.124.75.136/sat/tv551"
           ]
         },
@@ -608,12 +591,6 @@
           "urls": [
             "http://125.227.210.37:14250/VideoInput/play.ts",
             "http://125.227.210.55:14250/VideoInput/play.ts"
-          ]
-        },
-        {
-          "name": "東森幼幼",
-          "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free"
           ]
         },
         {
@@ -627,12 +604,6 @@
           "name": "國家地理",
           "urls": [
             "http://125.227.210.37:16408/VideoInput/play.ts"
-          ]
-        },
-        {
-          "name": "探索亞洲",
-          "urls": [
-            "http://125.227.210.37:10388/VideoInput/play.ts"
           ]
         },
         {
@@ -689,7 +660,6 @@
           "name": "三立台灣",
           "urls": [
             "http://125.227.210.55:15714/VideoInput/play.ts",
-            "http://50.7.61.148:30080/Entry/settw",
             "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on"
           ]
         },
@@ -713,28 +683,14 @@
           ]
         },
         {
-          "name": "東森超視",
-          "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free"
-          ]
-        },
-        {
-          "name": "東森綜合",
-          "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free"
-          ]
-        },
-        {
           "name": "東森戲劇",
           "urls": [
-            "http://125.227.210.37:17524/VideoInput/play.ts",
-            "http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free"
+            "http://125.227.210.37:17524/VideoInput/play.ts"
           ]
         },
         {
           "name": "緯來日本",
           "urls": [
-            "http://50.7.61.147:30080/Entry/vljp",
             "rtmp://59.124.75.136/sat/tv771"
           ]
         },
@@ -760,7 +716,14 @@
         {
           "name": "Discovery",
           "urls": [
-            "http://125.227.210.37:10388/VideoInput/play.ts"
+            "https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8"
+          ]
+        },
+        {
+          "name": "DiscoveryAsia",
+          "urls": [
+            "http://125.227.210.37:10388/VideoInput/play.ts",
+            "http://125.227.210.55:10388/VideoInput/play.ts"
           ]
         },
         {
@@ -773,14 +736,12 @@
         {
           "name": "JET綜合",
           "urls": [
-            "http://43.128.9.168/jjtv.php?id=52",
-            "http://50.7.61.147:30080/Entry/jet"
+            "http://43.128.9.168/jjtv.php?id=52"
           ]
         },
         {
           "name": "MOMO綜合",
           "urls": [
-            "http://125.227.210.37:13498/VideoInput/play.ts",
             "http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8",
             "rtmp://59.124.75.136/sat/tv761"
           ]
@@ -800,42 +761,11 @@
           ]
         },
         {
-          "name": "東森電影",
-          "urls": [
-            "http://27.47.68.65:808/hls/58/index.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
-          ]
-        },
-        {
-          "name": "緯來電影",
-          "urls": [
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
-          ]
-        },
-        {
           "name": "衛視電影",
           "urls": [
-            "http://112.197.2.135:1935/colive/C001_HD_4/chunklist.m3u8",
-            "http://iptv5.phoves.com.cn/api/mitv.php?id=22",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
-          ]
-        },
-        {
-          "name": "龍祥時代",
-          "urls": [
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
-          ]
-        },
-        {
-          "name": "美亞高清電影",
-          "urls": [
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy",
-            "https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200"
+            "http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free",
+            "http://sytv.xtvants.fun/mytv.php?id=wsdy&token=qq3036107507&user=fmys",
+            "https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv"
           ]
         },
         {
@@ -861,16 +791,21 @@
         {
           "name": "衛視洋片",
           "urls": [
-            "http://50.7.61.148:30080/Entry/starchinese"
-          ]
+            "http://125.227.210.37:18789/VideoInput/play.ts"
+            "http://125.227.210.55:18789/VideoInput/play.ts"
+            ]
         },
         {
           "name": "東森洋片",
           "urls": [
             "http://125.227.210.37:18685/VideoInput/play.ts",
             "http://125.227.210.55:18685/VideoInput/play.ts",
-            "http://27.47.68.65:808/hls/59/index.m3u8",
-            "http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free"
+          ]
+        },
+        {
+          "name": "龍華日韓",
+          "urls": [
+            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11"
           ]
         },
         {
@@ -878,49 +813,7 @@
           "urls": [
             "http://50.7.61.148:30080/Entry/hbo"
           ]
-        },
-        {
-          "name": "博斯運動2",
-          "urls": [
-            "http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8"
-          ]
-        },
-        {
-          "name": "博斯網球",
-          "urls": [
-            "rtmp://59.124.75.136/sat/md011"
-          ]
-        },
-        {
-          "name": "博斯魅力",
-          "urls": [
-            "rtmp://59.124.75.136/sat/md031",
-            "rtmp://59.124.75.136/sat/md041"
-          ]
-        },
-        {
-          "name": "智林體育",
-          "urls": [
-            "http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8"
-          ]
-        },
-        {
-          "name": "愛爾達體育2",
-          "urls": [
-            "rtmp://59.124.75.136/sat/md021",
-            "rtmp://59.124.75.136/sat/md051"
-          ]
-        },
-        {
-          "name": "緯來體育",
-          "urls": [
-            "http://125.227.210.37:18358/VideoInput/play.ts",
-            "http://125.227.210.55:18358/VideoInput/play.ts",
-            "rtmp://59.124.75.136/sat/tv721"
-          ]
-        },
-{"name": "ELEVEN體育一","urls": ["http://125.227.210.37:10677/VideoInput/play.ts","rtmp://59.124.75.136/sat/tv731"]},
-{"name": "ELEVEN體育二","urls": ["rtmp://59.124.75.136/sat/tv741"]}
+        }
       ]
     }
   ],
