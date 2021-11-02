@@ -267,7 +267,7 @@ CCTV17農村,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833
 重慶衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8
 黑龍江衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8
 
-🔞成人頻道_q,#genre#
+🔞成人頻道_1818,#genre#
 
 松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松視1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04
@@ -339,6 +339,3 @@ Look,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
 Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
 redlighthd,http://51.15.0.141:88/redlightHD/index.m3u8
 XXX2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-
-測試用,#genre#
-台視綜合,http://anan.jxin122.top/松鼠php/126net.php?id=11
