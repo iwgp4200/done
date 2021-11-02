@@ -269,20 +269,20 @@ CCTV17農村,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833
 
 🔞成人頻道_q,#genre#
 
-松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
-松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松视4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松視1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04
 松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
 松視1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
 松視1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松視2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a
 松視2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
 松視2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
 松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
 松視3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+松視4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
 香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
 香蕉台,p5p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
