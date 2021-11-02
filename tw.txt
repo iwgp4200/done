@@ -233,9 +233,6 @@ TVBS新聞,https://git.io/Jgkp1
 TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
 TVBS新聞,rtmp://59.124.75.157/sat/tv551
-TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
-TVBS歡樂,rtmp://59.124.75.157/sat/tv421
 
 🇨🇳中國頻道,#genre#
 CCTV1綜合,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
