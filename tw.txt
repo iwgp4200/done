@@ -261,3 +261,127 @@ Look,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
 Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
 redlighthd,http://51.15.0.141:88/redlightHD/index.m3u8
 XXX2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+
+台灣,#genre#
+中视,rtmp://59.124.75.138/sat/tv091#http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+中视经典,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+中视菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+华视,rtmp://59.124.75.157/sat/tv111#http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free
+華視教育文化 HD,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
+國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8
+國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8
+台视,rtmp://59.124.75.157/sat/tv071#http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
+台視綜合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+台視財經,http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
+公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+公视,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公视2,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+公视2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
+公视3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+民视,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.157/sat/tv051
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy#http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw#http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy#http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
+民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+原住民频道,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
+寰宇HD综合 ★,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
+寰宇新聞台灣台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+中天綜合 HD,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8#http://60.251.59.179:8515/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
+中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts#http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+中天亚洲台,http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free
+东森综合台,http://60.251.59.179:8518/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://60.251.59.179:8514/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://60.251.59.179:8517/xoxo.m3u8#rtmp://59.124.75.157/sat/tv571
+东森超视,rtmp://59.124.75.157/sat/tv771#rtmp://59.124.75.157/sat/tv771#http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+东森电影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+东森洋片台,http://125.227.210.37:18685/VideoInput/play.ts#http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
+东森戏剧台,http://125.227.210.55:17524/VideoInput/play.ts#http://60.251.59.179:8519/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
+东森幼幼台,http://60.251.59.179:8506/xoxo.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8#http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
+TVBS,http://60.251.59.179:8512/xoxo.m3u8#http://60.251.59.179:8510/xoxo.m3u8
+TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8#http://60.251.59.179:8513/xoxo.m3u8#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551#http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
+TVBS欢乐台,http://60.251.59.179:8520/xoxo.m3u8#rtmp://59.124.75.157/sat/tv421#http://198.16.106.62:8278/tvbsgbk_twn/playlist.m3u8
+TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
+三立综合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立新闻台,http://125.227.210.55:15589/VideoInput/play.ts
+三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://125.227.210.55:15714/VideoInput/play.ts
+三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
+壹電影,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
+年代新闻台,http://125.227.210.37:11055/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2050/index.m3u8
+年代MUCH HD,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2058/index.m3u8
+非凡商業台,http://50.7.61.147:30080/Entry/ubnbus#http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free
+纬来综合台 ★,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来精采 ★,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来戏剧台 ★,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来电影台,http://60.251.59.179:8543/xoxo.m3u8
+纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
+纬来体育台,rtmp://59.124.75.157/sat/tv721
+纬来体育台,rtmp://59.124.75.157/sat/tv721
+纬来日本台,rtmp://59.124.75.157/sat/tv521
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8#http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+龍華戲劇,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+龍華偶像,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+龍華電影,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+龍華洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
+龍華影劇,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+龍華動畫,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+高點綜合台,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+高點育樂台,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
+采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
+影迷數位電影台,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
+CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
+霹靂台灣台,http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free
+JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
+大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+爱尔达体育3,rtmp://161.202.204.248/sat/md051
+爱尔达综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+爱尔达影剧,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+FOX體育,rtmp://59.124.75.157/sat/tv731
+FOX2體育,rtmp://59.124.75.157/sat/tv741
+FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+博斯高球,http://sytv.xtvants.fun/mytv.php?id=bsgq&token=free&user=free
+博斯高球II,http://sytv.xtvants.fun/mytv.php?id=bsgq2&token=free&user=free
+博斯網球,http://sytv.xtvants.fun/mytv.php?id=bswq&token=free&user=free
+博斯運動一台,http://sytv.xtvants.fun/mytv.php?id=bsyd&token=free&user=free
+博斯魅力,http://sytv.xtvants.fun/mytv.php?id=bsml&token=free&user=free
+博斯運動二台,http://sytv.xtvants.fun/mytv.php?id=bsyd2&token=free&user=free
+博斯無限,http://sytv.xtvants.fun/mytv.php?id=bswx&token=free&user=free
+博斯無限二台,http://sytv.xtvants.fun/mytv.php?id=bswx2&token=free&user=free
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+SLEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+Nick,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=M200000000000519104841&ct=18639&tsum=c5edc8fc8db4672fc2f3f7111c99ec7b
+TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
+寶寶世界,http://sytv.xtvants.fun/mytv.php?id=bbsj&token=free&user=free
+Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
+MTV綜合台,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
