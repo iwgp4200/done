@@ -189,39 +189,6 @@ TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
 TVBS新聞,rtmp://59.124.75.157/sat/tv551
 
-🇨🇳中國頻道,#genre#
-CCTV1綜合,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
-CCTV2財經,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8
-CCTV3綜藝,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8
-CCTV4中文國際,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
-CCTV5體育,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225680/index.m3u8
-CCTV5+體育賽事,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8
-CCTV6電影,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8
-CCTV7國防軍事,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225627/index.m3u8
-CCTV8電視劇,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225630/index.m3u8
-CCTV9紀錄,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8
-CCTV10科教,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225624/index.m3u8
-CCTV11,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225750/index.m3u8
-CCTV12社會與法,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225670/index.m3u8
-CCTV13新聞,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
-CCTV14兒少,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225673/index.m3u8
-CCTV15音樂,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8
-CCTV17農村,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8
-東方衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225682/index.m3u8
-北京衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225664/index.m3u8
-天津衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225694/index.m3u8
-安徽衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225671/index.m3u8
-山東衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225642/index.m3u8
-廣東衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225685/index.m3u8
-江蘇衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225636/index.m3u8
-浙江衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225695/index.m3u8
-深圳衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225691/index.m3u8
-湖北衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225689/index.m3u8
-湖南衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225692/index.m3u8
-遼寧衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225639/index.m3u8
-重慶衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8
-黑龍江衛視,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8
-
 🔞成人頻道_1818,#genre#
 
 松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
