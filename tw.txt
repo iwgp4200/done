@@ -185,6 +185,65 @@ TVBS歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
 TVBS歡樂,rtmp://59.124.75.138/sat/tv421	
 TVBS歡樂,rtmp://59.124.75.157/sat/tv421	
 
+🆕新聞頻道,#genre#
+
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
+三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
+三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立inews新聞,https://git.io/Jgkxj
+三立Live新聞,https://git.io/Jgkxp
+中視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074
+中視新聞,https://git.io/Jgkxz
+中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+台視財經,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv056
+台視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+台視新聞,https://git.io/JgkxY
+台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+民視新聞,http://50.7.61.148:30080/Entry/ftvnews
+民視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視新聞,https://git.io/JgkAb
+民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
+東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森財經,https://git.io/Jgkpc
+東森財經,rtmp://59.124.75.138/sat/tv571
+東森財經,rtmp://59.124.75.157/sat/tv571
+東森新聞,http://50.7.61.147:30080/Entry/etnews
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森新聞,https://git.io/Jgkps
+非凡商業,http://50.7.61.147:30080/Entry/ubnbus
+非凡商業,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
+壹電視新聞,http://50.7.61.147:30080/Entry/etv
+壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹電視新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+華視新聞資訊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
+華視新聞資訊,https://git.io/Jgkxa
+華視新聞資訊,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
+寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+寰宇新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+寰宇新聞,https://git.io/JgkpO
+寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+寰宇新聞台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+TVBS,http://50.7.61.148:30080/Entry/tvbs
+TVBS,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+TVBS新聞,http://125.227.210.37:16329/VideoInput/play.ts
+TVBS新聞,http://125.227.210.55:16329/VideoInput/play.ts
+TVBS新聞,http://50.7.61.148:30080/Entry/tvbsnews
+TVBS新聞,https://git.io/Jgkp1
+TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
+TVBS新聞,rtmp://59.124.75.138/sat/tv551
+TVBS新聞,rtmp://59.124.75.157/sat/tv551
+TVBS精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv067
+TVBS歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+TVBS歡樂,rtmp://59.124.75.138/sat/tv421
+TVBS歡樂,rtmp://59.124.75.157/sat/tv421
+
+
 
 🔞成人頻道_1818,#genre#
 
