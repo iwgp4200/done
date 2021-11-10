@@ -241,7 +241,7 @@ TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
 TVBS新聞,rtmp://59.124.75.157/sat/tv551
 
-🔞中國頻道,#genre#
+🇨🇳中國頻道,#genre#
 
 
 CCTV1,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
