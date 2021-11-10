@@ -288,6 +288,46 @@ CCTV-電視指南HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/
 CCTV-電視指南HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 CCTV-懷舊劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 CCTV-懷舊劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+安徽衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226746/index.m3u8
+安徽衛視 FHD,http://39.135.129.164/PLTV/88888888/224/3221226447/1.m3u8
+北京衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226195/index.m3u8
+北京衛視 FHD,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226724/index.m3u8
+北京衛視 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226666/index.m3u8
+東方衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225976/index.m3u8
+東方衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226187/index.m3u8
+東方衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226733/index.m3u8
+湖北衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226705/index.m3u8
+湖南衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225981/index.m3u8
+湖南衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226144/index.m3u8
+湖南衛視 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226161/index.m3u8
+湖南衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226727/index.m3u8
+湖南衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226669/index.m3u8
+湖南衛視 FHD,http://39.135.129.164/PLTV/88888888/224/3221226421/1.m3u8
+江蘇衛視 FHD,http://39.135.129.162/PLTV/88888888/224/3221226638/1.m3u8
+江蘇衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225989/index.m3u8
+江蘇衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226160/index.m3u8
+江蘇衛視 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226672/index.m3u8
+江蘇衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226902/index.m3u8
+吉林衛視 FHD,http://39.135.129.164/PLTV/88888888/224/3221226763/1.m3u8
+山東衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226739/index.m3u8
+山東衛視 FHD,http://39.135.129.164/PLTV/88888888/224/3221226486/1.m3u8
+深圳衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226725/index.m3u8
+深圳衛視 FHD,http://39.135.129.166/PLTV/88888888/224/3221226463/1.m3u8
+四川衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226728/index.m3u8
+重慶衛視 FHD,http://39.135.129.164/PLTV/88888888/224/3221226490/1.m3u8
+天津衛視 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226742/index.m3u8
+浙江衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225975/index.m3u8
+浙江衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226134/index.m3u8
+浙江衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226700/index.m3u8
+浙江衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226795/index.m3u8
+重慶衛視 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226737/index.m3u8
+金鷹紀實 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226714/index.m3u8
+金鷹紀實 FHD,http://39.135.129.164/PLTV/88888888/224/3221226459/1.m3u8
+遼寧衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226049/index.m3u8
+遼寧衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226156/index.m3u8
+遼寧衛視 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226731/index.m3u8
+遼寧衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226689/index.m3u8
+
 
 🔞成人頻道_1818,#genre#
 
