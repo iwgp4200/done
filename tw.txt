@@ -241,6 +241,54 @@ TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
 TVBS新聞,rtmp://59.124.75.157/sat/tv551
 
+🔞中國頻道,#genre#
+
+
+CCTV1,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
+CCTV2,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-2hd/1.m3u8
+CCTV3,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-3hd/1.m3u8
+CCTV4,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-4sd/1.m3u8
+CCTV4美洲HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
+CCTV4歐洲HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+CCTV5,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
+CCTV5+,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-tysshd/1.m3u8
+CCTV6,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-6hd/1.m3u8
+CCTV7,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-7hd/1.m3u8
+CCTV8,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-8hd/1.m3u8
+CCTV9,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-9hd/1.m3u8
+CCTV10,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-10hd/1.m3u8
+CCTV11,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-11sd/1.m3u8
+CCTV12,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-12hd/1.m3u8
+CCTV13,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-newssd/1.m3u8
+CCTV14,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-14hd/1.m3u8
+CCTV15,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-yysd/1.m3u8
+CCTV16,https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
+CCTV17,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-17hd/1.m3u8
+CCTV-女性時尚HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+CCTV-女性時尚HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+CCTV-文化精品HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+CCTV-文化精品HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+CCTV-世界地理HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+CCTV-世界地理HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV-央視台球HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV-央視台球HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
+CCTV-兵器科技HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+CCTV-兵器科技HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+CCTV-風雲足球HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+CCTV-風雲足球HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV-風雲音樂HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+CCTV-風雲音樂HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV-風雲劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+CCTV-風雲劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV-高爾夫網球HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+CCTV-高爾夫網球HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+CCTV-第一劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+CCTV-第一劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+CCTV-電視指南HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+CCTV-電視指南HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV-懷舊劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+CCTV-懷舊劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+
 🔞成人頻道_1818,#genre#
 
 松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
