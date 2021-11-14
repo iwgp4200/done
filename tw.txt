@@ -52,7 +52,7 @@
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 幸福空間居家,https://git.io/JgYYF
-東森幼幼,https://git.io/JgYON
+東森幼幼點點名,https://git.io/JgYON
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
