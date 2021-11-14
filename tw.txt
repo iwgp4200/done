@@ -52,7 +52,7 @@
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 幸福空間居家,https://git.io/JgYYF
-東森幼幼點點名,https://git.io/JgYON
+東森幼幼,https://git.io/JgYON
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
@@ -71,13 +71,13 @@
 星影衛視,http://data.3g.yy.com/live/hls/29900720/29900720
 星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-迪士尼,http://125.227.210.37:14250/VideoInput/play.ts
-迪士尼,http://125.227.210.55:14250/VideoInput/play.ts
+DISNEY,http://125.227.210.37:14250/VideoInput/play.ts
+DISNEY,http://125.227.210.55:14250/VideoInput/play.ts
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 國家地理,rtmp:///channel/60b4e50239e1b02e8b910ca6
-探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+DISCOVERY科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
 博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
 博斯運動二,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 壹電視新聞,http://50.7.61.147:30080/Entry/etv
@@ -217,13 +217,12 @@ TVBS新聞,rtmp://59.124.75.157/sat/tv551
 
 🇨🇳中國頻道,#genre#
 
-
 CCTV1,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
 CCTV2,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-2hd/1.m3u8
 CCTV3,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-3hd/1.m3u8
 CCTV4,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-4sd/1.m3u8
-CCTV4美洲HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
-CCTV4歐洲HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+CCTV4美洲,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
+CCTV4歐洲,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV5,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
 CCTV5+,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-tysshd/1.m3u8
 CCTV6,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-6hd/1.m3u8
