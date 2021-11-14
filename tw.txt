@@ -118,8 +118,6 @@ AXN,http://50.7.61.148:30080/Entry/axn
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
-DiscoveryAsia,http://125.227.210.37:10388/VideoInput/play.ts
-DiscoveryAsia,http://125.227.210.37:18358/VideoInput/play.ts
 DiscoveryAsia,http://125.227.210.55:10388/VideoInput/play.ts
 DiscoveryAsia,http://125.227.210.55:18358/VideoInput/play.ts
 DMAX,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
@@ -142,7 +140,7 @@ FOX,http://125.227.210.55:13498/VideoInput/play.ts
 FoxMovies,http://60.251.59.178:8527/.m3u8
 FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
-FOXMOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+FoxMovies,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 HBO-HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO-HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO,http://50.7.61.148:30080/Entry/hbo
