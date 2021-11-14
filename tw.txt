@@ -16,6 +16,7 @@
 大愛一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛三,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
 中天娛樂,http://125.227.210.55:15796/VideoInput/play.ts
@@ -164,6 +165,9 @@ ELEVEN2,rtmp://59.124.75.157/sat/md041
 ELEVEN2,rtmp://59.124.75.157/sat/tv741
 FOX,http://125.227.210.37:13498/VideoInput/play.ts
 FOX,http://125.227.210.55:13498/VideoInput/play.ts
+FoxMovies,http://60.251.59.178:8527/.m3u8
+FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO,http://50.7.61.148:30080/Entry/hbo
@@ -194,6 +198,7 @@ TVBS歡樂,rtmp://59.124.75.157/sat/tv421
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,https://git.io/Jgkxj
 三立Live新聞,https://git.io/Jgkxp
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
@@ -328,6 +333,14 @@ CCTV-懷舊劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/
 遼寧衛視 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226731/index.m3u8
 遼寧衛視 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226689/index.m3u8
 
+輪播頻道,#genre#
+古天樂,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+成龍,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+周星馳,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+周潤發,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+張國榮,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+郭富城,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+劉德華,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 
 🔞成人頻道_1818,#genre#
 
