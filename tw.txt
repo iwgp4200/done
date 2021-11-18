@@ -310,54 +310,35 @@ CCTV-懷舊劇場HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/
 郭富城,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
 劉德華,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 
-🔞成人頻道_1818,#genre#
+🔞成人頻道,#genre#
 
-松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
-松視1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04
-松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
 松視1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
-松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松視2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a
-松視2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
 松視2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
-松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
 松視3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
-松視4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
-香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
-香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-香蕉台,p5p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
 香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
-彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98
-彩虹E台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹E台,p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-極限電影台,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e
-極限電影台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
-極限電影台,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-極限電影台,p5p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
-潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2
-潘朵拉玩美,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-潘朵拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵拉玩美,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
-潘朵啦玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-潘朵啦玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-潘朵啦玩美台,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
-潘朵啦玩美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
-潘朵啦粉紅台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
-潘朵啦粉紅台,p5p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
-潘朵啦粉紅台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
-蘋果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-驚艷台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e
-驚艷台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
-驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-驚艷台,p5p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d
+彩虹电影台,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
+彩虹通道,rtmp://45.92.126.114/channel/61319b25c6f62a25d2da21b8
+彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+潘朵拉完美,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+潘朵拉粉红,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+潘朵啦玩美,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+潘朵啦粉紅,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
 驚艷台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
+JSTAR極限台,rtmp://104.149.131.118/channel/60fa6d9b8dfe8209677fdb20
+K頻道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+櫻桃,rtmp://45.92.126.114/channel/61319cdfc6f62a25d2da21c3
+做愛特教班,rtmp://45.92.126.114/channel/613100d2c6f62a25d2da2189
+做愛輸入,rtmp://45.88.148.114/channel/613229bec6f62a25d2da21e2
+近親相姦,rtmp://45.92.126.114/channel/61319ab6c6f62a25d2da21b6
+香草天道,rtmp://45.92.126.114/channel/6130ff36c6f62a25d2da217d
+人妻不倫,rtmp://45.92.126.114/channel/6131027ac6f62a25d2da218f
+大學女援交妹,rtmp://45.92.126.114/channel/613221dbc6f62a25d2da21d0
+午夜蓝,rtmp://45.92.126.114/channel/61319c1cc6f62a25d2da21bf
+水多多,rtmp://45.92.126.114/channel/613102e2c6f62a25d2da2191
+奶奶按摩店,rtmp://45.92.126.114/channel/6131010cc6f62a25d2da218b
+性愛教主,rtmp://45.92.126.114/channel/6131004fc6f62a25d2da2185
 Amateur,p5p://crfccs.kingh888.com:16666/60ab6fb6000b8a650f7c1814ba6d0807
+AV女王,rtmp://45.92.126.114/channel/61310232c6f62a25d2da218d
 BBW,p5p://crfccs.kingh888.com:16666/60ab7022000573560f7dbc65c7a7c516
 Big Butt,p5p://crfccs.kingh888.com:16666/60ab7074000469010f7efc7173919dd8
 Big Tits,p5p://crfccs.kingh888.com:16666/60ab6fa60009ec320f7bd92abf911f6f
@@ -368,15 +349,13 @@ Filmon,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 HAPPY,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 HAPPY,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
-Hustlerhd,http://51.15.0.141:88/hustlerhd/index.m3u8
+hustlerhd,http://51.15.0.141:88/hustlerhd/index.m3u8
 Jasmin,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-JStar極限台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
-JStar極限台,p5p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
-K頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
-K頻道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
-LOOK TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-LOOK TV,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
+KMP,rtmp://45.92.126.114/channel/61319ba0c6f62a25d2da21bd
+Look HD,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
 LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
 Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
-Redlighthd,http://51.15.0.141:88/redlightHD/index.m3u8
+PLAYBOY,rtmp://45.92.126.114/channel/61319b62c6f62a25d2da21ba
+redlighthd,http://51.15.0.141:88/redlightHD/index.m3u8
+VENUS,rtmp://45.92.126.114/channel/61310094c6f62a25d2da2187
 XXX2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
