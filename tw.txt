@@ -270,9 +270,9 @@
 AMC,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
 ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
-AXN電影,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
 Bloomberg,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
@@ -484,7 +484,9 @@ TVBS新聞,rtmp://59.124.75.157/sat/tv551
 衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 龍華電影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,mitv://ns2.hellotvvod.com:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
-AXN電影,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
+AXN,http://50.7.61.148:30080/Entry/axn
 CatchPlay電影,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
 FOXMOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 FOXMOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
