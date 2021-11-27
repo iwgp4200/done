@@ -16,11 +16,12 @@
 三立台灣,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立財經新聞,https://git.io/Jgkxj
-三立財經新聞,https://git.io/Jgkxp
 三立財經新聞,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立都會,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
+三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 三立綜合,mitv://ns2.hellotvvod.com:9906/39099a64df574197b97e74dcdabbb332
@@ -34,7 +35,6 @@
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂,mitv://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 中天新聞,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-中天新聞,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新聞,https://cn9.9cxz.com/1/qq/hls/index.m3u8
 中天新聞,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
@@ -46,7 +46,9 @@
 中視,http://50.7.61.148:30080/Entry/ctv
 中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
 中視,rtmp://59.124.75.138/sat/tv091
+中視,rtmp://59.124.75.157/sat/md041
 中視,rtmp://59.124.75.157/sat/tv091
+中視,rtmp://9wv7.mine.nu/sat/md041
 中視,rtmp://9wv7.mine.nu/sat/tv091
 中視菁采,mitv://ns2.hellotvvod.com:9906/c448d3d8a89f432d9d5ea92258dc3cef
 中視新聞,https://git.io/Jgkxz
@@ -56,13 +58,9 @@
 中視經典,mitv://ns2.hellotvvod.com:9906/003d7fef9db3466e9b9e2f569474dd28
 中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
-公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys
-公視,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 公視,mitv://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視三,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
-天映經典,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
 古典音樂台CLASSICA,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
 台視,http://50.7.61.148:30080/Entry/ttv
@@ -148,9 +146,6 @@
 美亞高清電影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 美食星球,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-迪士尼,http://125.227.210.37:14250/VideoInput/play.ts
-迪士尼,http://125.227.210.55:14250/VideoInput/play.ts
-迪士尼,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 旅遊生活,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 高點綜合,mitv://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
 動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
@@ -195,18 +190,17 @@
 華視新聞資訊,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 華視新聞資訊,mitv://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
 愛爾達綜合,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
+愛爾達體育1,http://50.7.61.148:30080/Entry/eltasport1
 愛爾達體育1,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
 愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-愛爾達體育1,rtmp://59.124.75.138/sat/md021
-愛爾達體育1,rtmp://59.124.75.157/sat/md021
-愛爾達體育1,rtmp://59.124.75.157/sat/md041
 愛爾達體育1,rtmp://9wv7.mine.nu/sat/md011
-愛爾達體育1,rtmp://9wv7.mine.nu/sat/md041
+愛爾達體育2,http://50.7.61.148:30080/Entry/eltasport2
 愛爾達體育2,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
-愛爾達體育2,rtmp://59.124.75.157/sat/md051
-愛爾達體育2,rtmp://9wv7.mine.nu/sat/md051
+愛爾達體育2,rtmp://59.124.75.138/sat/md021
+愛爾達體育2,rtmp://59.124.75.157/sat/md021
+愛爾達體育2,rtmp://9wv7.mine.nu/sat/md021
+愛爾達體育3,http://50.7.61.148:30080/Entry/eltasport3
 愛爾達體育3,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
-愛爾達體育3,rtmp://9wv7.mine.nu/sat/md021
 罪案偵緝,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
 達文西,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
 靖天日本,mitv://ns2.hellotvvod.com:9906/73b12e8889f048fc91a58f1d33049650
@@ -245,6 +239,8 @@
 緯來綜合,mitv://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 緯來戲劇,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
+緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 緯來體育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
 緯來體育,rtmp://59.124.75.138/sat/tv721
@@ -270,13 +266,12 @@
 韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/7a7c099add954867853e91a6018c2a33
 AMC,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
 ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+ANIMAX,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
-Bloomberg,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
 CatchPlay電影,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
 CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
 Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
@@ -284,19 +279,23 @@ CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
-CNBC新聞,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
-CNN新聞,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 Discovery,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery科學,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
 Discovery科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+DiscoveryAsia,http://125.227.210.37:10388/VideoInput/play.ts
 DiscoveryAsia,http://125.227.210.55:10388/VideoInput/play.ts
-DiscoveryAsia,http://125.227.210.55:18358/VideoInput/play.ts
 DiscoveryAsia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+DISNEY,http://125.227.210.37:14250/VideoInput/play.ts
+DISNEY,http://125.227.210.55:14250/VideoInput/play.ts
+DISNEY,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 DISNEY,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
 DMAX,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
 DMAX,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+ELEVEN+,rtmp://59.124.75.138:1935/sat/md051
+ELEVEN+,rtmp://59.124.75.157/sat/md051
+ELEVEN+,rtmp://9wv7.mine.nu/sat/md051
 ELEVEN體育一,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN體育一,http://125.227.210.55:10677/VideoInput/play.ts
 ELEVEN體育一,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
@@ -307,13 +306,9 @@ ELEVEN體育一,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN體育二,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 ELEVEN體育二,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
 ELEVEN體育二,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
-ELEVEN體育二,rtmp://59.124.75.138:1935/sat/md051
 ELEVEN體育二,rtmp://59.124.75.138/sat/md031
-ELEVEN體育二,rtmp://59.124.75.138/sat/md041
-ELEVEN體育二,rtmp://59.124.75.138/sat/md05
 ELEVEN體育二,rtmp://59.124.75.138/sat/tv741
 ELEVEN體育二,rtmp://59.124.75.157/sat/md031
-ELEVEN體育二,rtmp://59.124.75.157/sat/md041
 ELEVEN體育二,rtmp://59.124.75.157/sat/tv741
 ELEVEN體育二,rtmp://9wv7.mine.nu/sat/tv741
 ELTV,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
@@ -355,7 +350,11 @@ MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
 MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 NHK新聞,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
 Nick Jr.,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
+STARMOVIES,http://125.227.210.37:18789/VideoInput/play.ts
+STARMOVIES,http://125.227.210.55:18789/VideoInput/play.ts
 STARMOVIES,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
+TLC,http://125.227.210.37:19020/VideoInput/play.ts
+TLC,http://125.227.210.55:19020/VideoInput/play.ts
 TLC,http://50.7.61.147:30080/Entry/tlc
 TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 TVBS,http://50.7.61.148:30080/Entry/tvbs
@@ -387,7 +386,6 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立財經新聞,https://git.io/Jgkxj
-三立財經新聞,https://git.io/Jgkxp
 三立財經新聞,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
@@ -501,6 +499,8 @@ HBOHITS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 HBOSIGNATURE,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
 HBOSIGNATURE,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 LS Time電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+STARMOVIES,http://125.227.210.37:18789/VideoInput/play.ts
+STARMOVIES,http://125.227.210.55:18789/VideoInput/play.ts
 STARMOVIES,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 古天樂,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 成龍,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
