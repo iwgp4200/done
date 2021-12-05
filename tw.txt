@@ -10,13 +10,13 @@
 八大戲劇,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
 三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣,http://50.7.61.148:30080/Entry/settw-
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立台灣,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立財經新聞,https://git.io/Jgkxj
 三立財經新聞,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立都會,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 三立都會,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
 三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,http://66.90.88.132:8080/hls/ph00320/index.m3u8
