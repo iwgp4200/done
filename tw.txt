@@ -30,7 +30,6 @@
 三立都會,mitv://51.81.90.178:9906/24f879b52a0d45d886005e8acdd9a8ab
 三立都會,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
 三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,http://66.90.88.132:8080/hls/ph00320/index.m3u8
 三立新聞,mitv://51.81.90.178:9906/3fc8adf766954da4bc9908ecb81184bc
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 三立綜合,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -63,7 +62,6 @@
 中天綜合,mitv://51.81.90.178:9906/a23f89fde21341f3b172046c02ad688c
 中天綜合,mitv://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
 中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-中視,http://66.90.88.132:8080/hls/ph00303/index.m3u8
 中視,http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中視,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中視,mitv://51.81.90.178:9906/21fe3c316a13445a8a5b1f4afd39a5b1
@@ -72,7 +70,6 @@
 中視,rtmp://59.124.75.157/sat/tv091
 中視菁采,mitv://51.81.90.178:9906/c448d3d8a89f432d9d5ea92258dc3cef
 中視菁采,mitv://ns2.hellotvvod.com:9906/c448d3d8a89f432d9d5ea92258dc3cef
-中視新聞,http://66.90.88.132:8080/hls/ph00323/index.m3u8
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 中視新聞,mitv://51.81.90.178:9906/7575a0153b074f2d91c69eafe28ba22d
@@ -80,7 +77,6 @@
 中視經典,mitv://51.81.90.178:9906/003d7fef9db3466e9b9e2f569474dd28
 中視經典,mitv://ns2.hellotvvod.com:9906/003d7fef9db3466e9b9e2f569474dd28
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-公視,http://66.90.88.132:8080/hls/ph00306/index.m3u8
 公視,http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 公視,mitv://51.81.90.178:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
 公視,mitv://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
@@ -93,20 +89,17 @@
 天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 古典音樂CLASSICA,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
-台視,http://66.90.88.132:8080/hls/ph00304/index.m3u8
 台視,mitv://51.81.90.178:9906/0cde14d20638479189443549d1b1005f
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
 台視,rtmp://59.124.75.138/sat/tv071
 台視,rtmp://59.124.75.157/sat/tv071
 台視財經,mitv://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
-台視新聞,http://66.90.88.132:8080/hls/ph00324/index.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,https://git.io/JgkxY
 台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 台視新聞,mitv://51.81.90.178:9906/ec46ca942a3a4c9292c0dee902f579bf
 台視新聞,mitv://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
 民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-民視,http://66.90.88.132:8080/hls/ph00302/index.m3u8
 民視,http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,mitv://51.81.90.178:9906/44cf4d1e73cc4c34843382f2bf89d49f
@@ -118,7 +111,6 @@
 民視第一,mitv://51.81.90.178:9906/998ca373e45e4f01b6755ddaec323cb7
 民視第一,mitv://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
 民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-民視新聞,http://66.90.88.132:8080/hls/ph00322/index.m3u8
 民視新聞,http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 民視新聞,https://git.io/JgkAb
@@ -149,7 +141,6 @@
 東森幼幼點點名,https://git.io/JgYON
 東森亞洲衛視,mitv://51.81.90.178:9906/586cfb57fa8b4475a353a65fc712cf1e
 東森亞洲衛視,mitv://ns2.hellotvvod.com:9906/586cfb57fa8b4475a353a65fc712cf1e
-東森洋片,http://66.90.88.132:8080/hls/ph00312/index.m3u8
 東森洋片,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森洋片,mitv://51.81.90.178:9906/ab1aa48cd1a34f488845642592c39418
 東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
@@ -164,13 +155,11 @@
 東森超視,mitv://51.81.90.178:9906/941259e9297d4a229c678f08b19f60f1
 東森超視,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
 東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森新聞,http://66.90.88.132:8080/hls/ph00319/index.m3u8
 東森新聞,http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森新聞,https://git.io/Jgkps
 東森新聞,mitv://51.81.90.178:9906/d98879e5737d4c44b3dd85bc349775e0
 東森新聞,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
-東森電影,http://66.90.88.132:8080/hls/ph00311/index.m3u8
 東森電影,http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森電影,mitv://51.81.90.178:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
@@ -184,7 +173,6 @@
 采昌影劇,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 非凡商業,mitv://51.81.90.178:9906/ab4d36f3d889496a92747157c7e4c732
 非凡商業,mitv://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
-非凡新聞,http://66.90.88.132:8080/hls/ph00321/index.m3u8
 非凡新聞,http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 非凡新聞,mitv://51.81.90.178:9906/3801d29839174353a940a8c0cfae6e47
 非凡新聞,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
@@ -245,13 +233,11 @@
 智林體育,mitv://51.81.90.178:9906/8b30925a0d704bcd8286add181bafdb9
 智林體育,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
 華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-華視,http://66.90.88.132:8080/hls/ph00305/index.m3u8
 華視,http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 華視,mitv://51.81.90.178:9906/fd73b217be314cf198807cc5d1d911b6
 華視,mitv://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
 華視,rtmp://59.124.75.138/sat/tv111
 華視,rtmp://59.124.75.157/sat/tv111
-華視新聞資訊,http://66.90.88.132:8080/hls/ph00325/index.m3u8
 華視新聞資訊,https://git.io/Jgkxa
 華視新聞資訊,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 華視新聞資訊,mitv://51.81.90.178:9906/412a06626d254822954dd29b235f9366
@@ -298,7 +284,6 @@
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來育樂,rtmp://59.124.75.157/sat/tv701
 緯來電影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-緯來電影,http://66.90.88.132:8080/hls/ph00315/index.m3u8
 緯來電影,mitv://51.81.90.178:9906/67d49ff2fc594674a3969022f0c55ded
 緯來電影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 緯來精采,mitv://51.81.90.178:9906/2c975cf5b04545ba8bf7b0320111883a
@@ -347,7 +332,6 @@
 AMC電影,mitv://51.81.90.178:9906/eb5393add687434ca3f3da38ce5ec3bf
 AMC電影,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
 ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-ANIMAX,http://66.90.88.132:8080/hls/ph00309/index.m3u8
 ANIMAX,mitv://51.81.90.178:9906/10d8ae908a354513b09e38e7116b7b33
 ANIMAX,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
@@ -355,7 +339,6 @@ AXN,mitv://51.81.90.178:9906/5c910d743fe847e8b406bf7d180130a0
 AXN,mitv://51.81.90.178:9906/91a1fa5c29a849cf897f93f58fd08285
 AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
 AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
-BABY,http://66.90.88.132:8080/hls/ph00310/index.m3u8
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://51.81.90.178:9906/2dcc681591d640ceb91c09b5eb7cbb83
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
@@ -377,7 +360,6 @@ Discovery科學,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
 DiscoveryAsia,mitv://51.81.90.178:9906/8338adb9ba1541929a6106de04cfdec5
 DiscoveryAsia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 Disney,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
-Disney,http://66.90.88.132:8080/hls/ph00308/index.m3u8
 Disney,mitv://51.81.90.178:9906/d24a14f362fb47d8a603b41462ad0f9b
 Disney,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
 DMAX,mitv://51.81.90.178:9906/f4a3049579cf4a109e2755cff0aae884
@@ -421,7 +403,6 @@ i-Fun動漫,mitv://ns2.hellotvvod.com:9906/f62384ed61d345cebf4cc1a3c9167bd3
 Lifetime,mitv://ns2.hellotvvod.com:9906/698e4db64e93463a814fc462cb15b1f4
 Love Nature,mitv://51.81.90.178:9906/5b4aa7c53c974767aad85f24fc19d550
 Love Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
-LS Time電影,http://66.90.88.132:8080/hls/ph00314/index.m3u8
 LS Time電影,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 LS Time電影,mitv://51.81.90.178:9906/2c5a71766368419ca7a962ce66cf5da3
 LS Time電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
@@ -445,7 +426,6 @@ TVBS,https://cn9.9cxz.com/1/tvbs56/index.m3u8
 TVBS,mitv://51.81.90.178:9906/95ef54ef56944f0a947ea0e87f6f15bc
 TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 TVBS新聞,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-TVBS新聞,http://66.90.88.132:8080/hls/ph00318/index.m3u8
 TVBS新聞,https://git.io/Jgkp1
 TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新聞,mitv://51.81.90.178:9906/4c700aa999594ea5893d7eab1519f187
@@ -455,7 +435,6 @@ TVBS新聞,rtmp://59.124.75.157/sat/tv551
 TVBS精采,mitv://51.81.90.178:9906/12b97bd9bd274f78846703aceb5894d2
 TVBS精采,mitv://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 TVBS歡樂,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-TVBS歡樂,http://66.90.88.132:8080/hls/ph00317/index.m3u8
 TVBS歡樂,http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS歡樂,mitv://51.81.90.178:9906/b4b85eca20d7462fae595d8033c6a9ce
 TVBS歡樂,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
@@ -478,7 +457,6 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 三立財經新聞,mitv://51.81.90.178:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立財經新聞,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,http://66.90.88.132:8080/hls/ph00320/index.m3u8
 三立新聞,mitv://51.81.90.178:9906/3fc8adf766954da4bc9908ecb81184bc
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 中天新聞,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
@@ -487,20 +465,17 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 中天新聞,https://cn9.9cxz.com/1/qq/hls/index.m3u8
 中天新聞,mitv://51.81.90.178:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
 中天新聞,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
-中視新聞,http://66.90.88.132:8080/hls/ph00323/index.m3u8
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 中視新聞,mitv://51.81.90.178:9906/7575a0153b074f2d91c69eafe28ba22d
 中視新聞,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
 台視財經,mitv://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
-台視新聞,http://66.90.88.132:8080/hls/ph00324/index.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,https://git.io/JgkxY
 台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 台視新聞,mitv://51.81.90.178:9906/ec46ca942a3a4c9292c0dee902f579bf
 台視新聞,mitv://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
 民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-民視新聞,http://66.90.88.132:8080/hls/ph00322/index.m3u8
 民視新聞,http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 民視新聞,https://git.io/JgkAb
@@ -519,13 +494,11 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 東森財經,rtmp://59.124.75.138/sat/tv571
 東森財經,rtmp://59.124.75.157/sat/tv571
 東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森新聞,http://66.90.88.132:8080/hls/ph00319/index.m3u8
 東森新聞,http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森新聞,https://git.io/Jgkps
 東森新聞,mitv://51.81.90.178:9906/d98879e5737d4c44b3dd85bc349775e0
 東森新聞,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
-非凡新聞,http://66.90.88.132:8080/hls/ph00321/index.m3u8
 非凡新聞,http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 非凡新聞,mitv://51.81.90.178:9906/3801d29839174353a940a8c0cfae6e47
 非凡新聞,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
@@ -533,7 +506,6 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹電視新聞,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
-華視新聞資訊,http://66.90.88.132:8080/hls/ph00325/index.m3u8
 華視新聞資訊,https://git.io/Jgkxa
 華視新聞資訊,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 華視新聞資訊,mitv://51.81.90.178:9906/412a06626d254822954dd29b235f9366
@@ -552,7 +524,6 @@ TVBS,https://cn9.9cxz.com/1/tvbs56/index.m3u8
 TVBS,mitv://51.81.90.178:9906/95ef54ef56944f0a947ea0e87f6f15bc
 TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 TVBS新聞,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-TVBS新聞,http://66.90.88.132:8080/hls/ph00318/index.m3u8
 TVBS新聞,https://git.io/Jgkp1
 TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新聞,mitv://51.81.90.178:9906/4c700aa999594ea5893d7eab1519f187
@@ -562,7 +533,6 @@ TVBS新聞,rtmp://59.124.75.157/sat/tv551
 TVBS精采,mitv://51.81.90.178:9906/12b97bd9bd274f78846703aceb5894d2
 TVBS精采,mitv://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 TVBS歡樂,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-TVBS歡樂,http://66.90.88.132:8080/hls/ph00317/index.m3u8
 TVBS歡樂,http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS歡樂,mitv://51.81.90.178:9906/b4b85eca20d7462fae595d8033c6a9ce
 TVBS歡樂,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
@@ -574,11 +544,9 @@ TVBS歡樂,rtmp://59.124.75.157/sat/tv421
 好萊塢電影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 好萊塢電影,mitv://51.81.90.178:9906/fb9f46f4cb454b13a15aac8e025f8477
 好萊塢電影,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
-東森洋片,http://66.90.88.132:8080/hls/ph00312/index.m3u8
 東森洋片,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森洋片,mitv://51.81.90.178:9906/ab1aa48cd1a34f488845642592c39418
 東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
-東森電影,http://66.90.88.132:8080/hls/ph00311/index.m3u8
 東森電影,http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森電影,mitv://51.81.90.178:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
@@ -622,7 +590,6 @@ HBOHITS,mitv://51.81.90.178:9906/670c07900c5c4e49b6df5306bc18bff0
 HBOHITS,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
 HBOSIGNATURE,mitv://51.81.90.178:9906/9b18147e7f454392b7eb1d204235b314
 HBOSIGNATURE,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
-LS Time電影,http://66.90.88.132:8080/hls/ph00314/index.m3u8
 LS Time電影,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 LS Time電影,mitv://51.81.90.178:9906/2c5a71766368419ca7a962ce66cf5da3
 LS Time電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
