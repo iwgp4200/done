@@ -186,8 +186,6 @@
 美食星球,mitv://51.81.90.178:9906/045aa067f54a4a5bb2f5dc17190417cf
 美食星球,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
 原住民電視,mitv://51.81.90.178:9906/aa08defb0c824c2286623855624a0e07
-旅遊生活,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
-時尚頻道,mitv://51.81.90.178:9906/a6cb54e5bd294cc98064df05ad1b3fc1
 高點綜合,mitv://51.81.90.178:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
 高點綜合,mitv://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
 動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
@@ -386,10 +384,10 @@ FOX,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 FOX,mitv://51.81.90.178:9906/f769b6fdc80742349bd8214c8839d9d3
 FOX,mitv://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
 FOXMOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-HBO Family,mitv://51.81.90.178:9906/2230c4128071467e8e995408f20c1c3c
 HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 HBO,mitv://51.81.90.178:9906/8e83048c82a8449a93265fa063baa48d
 HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+HBOFAMILY,mitv://51.81.90.178:9906/2230c4128071467e8e995408f20c1c3c
 HBOFAMILY,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
 HBOHITS,mitv://51.81.90.178:9906/670c07900c5c4e49b6df5306bc18bff0
 HBOHITS,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
@@ -416,10 +414,11 @@ MTV Live,mitv://51.81.90.178:9906/5b5d21a03d37495aac99f37ee515efab
 MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
 Nick Jr,mitv://51.81.90.178:9906/0355fc81f0cf4527840ff76e185df41e
-Nick Jr.,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
+Nick Jr,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
 OUTDOOR,mitv://51.81.90.178:9906/ed9355bc07124e1e8a1c5dae6d87c300
 OUTDOOR,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 STARMOVIES,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
+TLC,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS,https://cn9.9cxz.com/1/tvbs56/index.m3u8
@@ -562,7 +561,6 @@ TVBS歡樂,rtmp://59.124.75.157/sat/tv421
 鳳凰電影,mitv://51.81.90.178:9906/06553799649b45619f5c5ff5467abe0e
 影迷數位電影,mitv://51.81.90.178:9906/aea4b6c6700c4d509157bf10f589f6a7
 緯來電影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-緯來電影,http://66.90.88.132:8080/hls/ph00315/index.m3u8
 緯來電影,mitv://51.81.90.178:9906/67d49ff2fc594674a3969022f0c55ded
 緯來電影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 衛視電影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
@@ -581,10 +579,16 @@ AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
 AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
 CatchPlay電影,mitv://51.81.90.178:9906/c4eeae79ede24dd3baf9226ec992dbe4
 CatchPlay電影,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
-HBO Family,mitv://51.81.90.178:9906/2230c4128071467e8e995408f20c1c3c
+CinemaWorld,mitv://51.81.90.178:9906/e37bdcc69e4f403f9fc52c6817c367f6
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
+CINEMAX,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+CINEMAX,mitv://51.81.90.178:9906/3d4d75d8f386474d8dbb84c7a3704a7f
+CINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
+FOXMOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 HBO,mitv://51.81.90.178:9906/8e83048c82a8449a93265fa063baa48d
 HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+HBOFAMILY,mitv://51.81.90.178:9906/2230c4128071467e8e995408f20c1c3c
 HBOFAMILY,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
 HBOHITS,mitv://51.81.90.178:9906/670c07900c5c4e49b6df5306bc18bff0
 HBOHITS,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
@@ -593,6 +597,9 @@ HBOSIGNATURE,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
 LS Time電影,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 LS Time電影,mitv://51.81.90.178:9906/2c5a71766368419ca7a962ce66cf5da3
 LS Time電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+STARMOVIES,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
+Warner TV,mitv://51.81.90.178:9906/bf10e7821b5744d3aed911a956e6cdfe
+Warner TV,mitv://ns2.hellotvvod.com:9906/bf10e7821b5744d3aed911a956e6cdfe
 古天樂,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 成龍,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 周星馳,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
@@ -600,6 +607,101 @@ LS Time電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 張國榮,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 郭富城,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
 劉德華,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+
+🏀體育,#genre#
+
+博斯高球1,mitv://51.81.90.178:9906/9eb73e0317034672b4e2bdb0d695387f
+博斯高球1,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
+博斯高球2,mitv://51.81.90.178:9906/c612218b5c0d4349a1b4049e89913c75
+博斯高球2,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
+博斯無限,mitv://51.81.90.178:9906/91e038793b5f45f194ab304ab843b741
+博斯無限,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
+博斯無限二,mitv://51.81.90.178:9906/3367cde8bd924944b2b7bbbaef5be87e
+博斯無限二,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
+博斯運動一,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯運動一,mitv://51.81.90.178:9906/b57a5306d5da4dcea75af2d436968097
+博斯運動一,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
+博斯運動二,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+博斯運動二,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+博斯運動二,mitv://51.81.90.178:9906/d4f401d6d6e144dfbb8c944a41b15772
+博斯運動二,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
+博斯網球,mitv://51.81.90.178:9906/47176ac49fed4e74a62d30b037ce81d3
+博斯網球,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
+博斯魅力,mitv://51.81.90.178:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+博斯魅力,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+智林體育,mitv://51.81.90.178:9906/8b30925a0d704bcd8286add181bafdb9
+智林體育,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
+愛爾達體育1,http://50.7.61.148:30080/Entry/eltasport1
+愛爾達體育1,mitv://51.81.90.178:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育1,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育2,http://50.7.61.148:30080/Entry/eltasport2
+愛爾達體育2,mitv://51.81.90.178:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育2,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育3,http://50.7.61.148:30080/Entry/eltasport3
+愛爾達體育3,mitv://51.81.90.178:9906/4f3f4387a8174b8f8aaed89e2901442c
+愛爾達體育3,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
+緯來體育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育,http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+緯來體育,mitv://51.81.90.178:9906/cd64bcebb70d4b489bf734c5b3369002
+緯來體育,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+緯來體育,rtmp://59.124.75.138/sat/tv721
+ELEVEN+,mitv://51.81.90.178:9906/ddcff661af5e44d995fd9ec13924927f
+ELEVEN+,rtmp://59.124.75.138:1935/sat/md051
+ELEVEN+,rtmp://59.124.75.157/sat/md051
+ELEVEN體育一,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN體育一,mitv://51.81.90.178:9906/0c9c4a9fc07c41bb8537828dd9162e81
+ELEVEN體育一,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+ELEVEN體育二,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+ELEVEN體育二,mitv://51.81.90.178:9906/a610acb66f3749bb953d78899b7205d2
+ELEVEN體育二,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
+ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
+NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
+
+🌏旅遊生活,#genre#
+亞洲美食,mitv://ns2.hellotvvod.com:9906/c0c700a32db94ca281b74e44d84b5b66
+亞洲旅遊,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+亞洲旅遊,mitv://51.81.90.178:9906/b52d03f4997a48b88d4ff3a86d2fa8de
+亞洲旅遊,mitv://ns2.hellotvvod.com:9906/b52d03f4997a48b88d4ff3a86d2fa8de
+幸福空間居家,https://git.io/JgYYF
+美食星球,mitv://51.81.90.178:9906/045aa067f54a4a5bb2f5dc17190417cf
+美食星球,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+國家地理,mitv://51.81.90.178:9906/cbf2e0c0e1ed4e11a564047614cb962d
+國家地理,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+國家地理野生,mitv://51.81.90.178:9906/3a0602f78e5e4c368fbf0d056436ee5d
+國家地理野生,mitv://51.81.90.178:9906/56543494b4f64682b1cf6a1aa771c34c
+國家地理野生,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+罪案偵緝,mitv://51.81.90.178:9906/969d3da0dc624b599160cda58bd5daa2
+罪案偵緝,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
+達文西,mitv://51.81.90.178:9906/191725f8a02546c1bec1bb92aab127ab
+達文西,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
+歷史頻道,mitv://51.81.90.178:9906/8282b66d64db4dd884b125ce6a43d7cf
+歷史頻道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
+歷史頻道2,mitv://51.81.90.178:9906/d13e7bea35dd4c01bf258f127a01b393
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+BBC Lifestyle,mitv://51.81.90.178:9906/2dcc681591d640ceb91c09b5eb7cbb83
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+Discovery,mitv://51.81.90.178:9906/9c0a057219044213ac643c8a8e5d50c0
+Discovery,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+Discovery科學,mitv://51.81.90.178:9906/29f6899f71c64f5394c865d50ea00911
+Discovery科學,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
+DiscoveryAsia,mitv://51.81.90.178:9906/8338adb9ba1541929a6106de04cfdec5
+DiscoveryAsia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+DMAX,mitv://51.81.90.178:9906/f4a3049579cf4a109e2755cff0aae884
+DMAX,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+EYE旅遊,mitv://51.81.90.178:9906/5512ec54a1254879b4e39f92b63565ab
+EYE旅遊,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
+HGTV居家樂活,mitv://51.81.90.178:9906/3ae6806990ac44dbbd5a83eea77fef7e
+HGTV居家樂活,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
+Lifetime,mitv://ns2.hellotvvod.com:9906/698e4db64e93463a814fc462cb15b1f4
+Love Nature,mitv://51.81.90.178:9906/5b4aa7c53c974767aad85f24fc19d550
+Love Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
+OUTDOOR,mitv://51.81.90.178:9906/ed9355bc07124e1e8a1c5dae6d87c300
+OUTDOOR,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
+TLC,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 
 🇨🇳中國,#genre#
 
